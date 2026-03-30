@@ -1,5 +1,5 @@
 
-````markdown
+
 # GameGuard – External Attack Surface Monitor
 
 **Technologies:** Python, Shodan API, VirusTotal API, crt.sh, DNS
