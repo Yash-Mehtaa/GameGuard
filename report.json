@@ -1,0 +1,23 @@
+{
+    "example1.com": {
+        "open_ports": [
+            22,
+            80
+        ],
+        "ip_reputation": "SAFE"
+    },
+    "example2.com": {
+        "open_ports": [
+            22,
+            80
+        ],
+        "ip_reputation": "SAFE"
+    },
+    "example3.com": {
+        "open_ports": [
+            22,
+            80
+        ],
+        "ip_reputation": "SAFE"
+    }
+}
