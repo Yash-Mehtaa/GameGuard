@@ -72,7 +72,6 @@ Perfect for internships in **security operations, penetration testing, or threat
 
 This project is open-source and provided for educational purposes.
 
-````
 
 ---
 
